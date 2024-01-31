@@ -61,8 +61,6 @@ drive.mount('/content/drive')
     * Erase the old file path between the apostrophes and paste your train-mails file path
     * Do the same with "test-mails"
 
- ![](/Users/luisotero/Documents/LMU/Machine Learning/Python/Computer Assignments/CA02/screen1.png) 
-
 * You are now all set up! Click "Run All" at the top.
 
 ## Acknowledgments/References
