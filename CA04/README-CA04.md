@@ -17,7 +17,7 @@ GitHub Links:
 
 ## Description
 
-In this Python project, we will be utilizing the decision tree algorithms from the scikit-learn library on a salary dataset obtained from the Census Bureau. This project was done in a Python notebook file, in which we prepared the data for modelling, constructed several ensemble learning models, and compared the performances of the models using accuracy and auc metrics. The notebook goes more in depth concerning the code and algorithms used in this assignment.
+In this Python project, we will be constructing several ensemble learning models from the scikit-learn library on a salary dataset obtained from the Census Bureau. This project was done in a Python notebook file, in which we prepared the data for modelling, constructed several ensemble learning models, and compared the performances of the models using accuracy and auc metrics. The notebook goes more in depth concerning the code and algorithms used in this assignment.
 
 <br> <br>
 <img src = "https://media.licdn.com/dms/image/D4E12AQHaff5n271TSg/article-cover_image-shrink_720_1280/0/1688493534297?e=2147483647&v=beta&t=mCwPgEJ5cmJxhfm7EicFAE5VIl90LaRW2pXuEGMV10s" alt = "image" width = 300 height = "auto">
