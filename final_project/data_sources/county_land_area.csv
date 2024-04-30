@@ -1,0 +1,59 @@
+County_FIPS,County,Land_Area
+1,Alameda,737
+3,Alpine,738
+5,Amador,595
+7,Butte,1636
+9,Calaveras,1020
+11,Colusa,1151
+13,Contra Costa,717
+15,Del Norte,1006
+17,El Dorado,1708
+19,Fresno,5958
+21,Glenn,1314
+23,Humboldt,3568
+25,Imperial,4176
+27,Inyo,10197
+29,Kern,8135
+31,Kings,1391
+33,Lake,1255
+35,Lassen,4541
+37,Los Angeles,4060
+39,Madera,2137
+41,Marin,520
+43,Mariposa,1449
+45,Mendocino,3507
+47,Merced,1938
+49,Modoc,3948
+51,Mono,3049
+53,Monterey,3282
+55,Napa,752
+57,Nevada,958
+59,Orange,793
+61,Placer,1407
+63,Plumas,2553
+65,Riverside,7209
+67,Sacramento,965
+69,San Benito,1389
+71,San Bernardino,20068
+73,San Diego,4210
+75,San Francisco,47
+77,San Joaquin,1392
+79,San Luis Obispo,3301
+81,San Mateo,449
+83,Santa Barbara,2734
+85,Santa Clara,1291
+87,Santa Cruz,445
+89,Shasta,3776
+91,Sierra,953
+93,Siskiyou,6279
+95,Solano,822
+97,Sonoma,1575
+99,Stanislaus,1496
+101,Sutter,603
+103,Tehama,2949
+105,Trinity,3179
+107,Tulare,4824
+109,Tuolumne,2221
+111,Ventura,1841
+113,Yolo,1013
+115,Yuba,632
