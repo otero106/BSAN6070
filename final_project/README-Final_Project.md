@@ -34,7 +34,8 @@ The profound impact of the increased meteorological events, worsened by global c
 * Scikit-Learn
 * Scipy
 * Meteostat
-* Datetime
+* XGBoost
+* Math
 
 ## Software
 
@@ -72,12 +73,12 @@ The profound impact of the increased meteorological events, worsened by global c
 * [scipy.stats.zscore](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.zscore.html)
 * [US County Boundaries](https://public.opendatasoft.com/explore/dataset/us-county-boundaries/export/?flg=en-us&disjunctive.statefp&disjunctive.countyfp&disjunctive.name&disjunctive.namelsad&disjunctive.stusab&disjunctive.state_name&sort=stusab&refine.statefp=06)
 * [Get Temperature Data by Location with Python](https://towardsdatascience.com/get-temperature-data-by-location-with-python-52ed872dd621)
+* [When and Why to Standardize Your Data](https://builtin.com/data-science/when-and-why-standardize-your-data#)
 * [Regression Metrics for Machine Learning](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
 * [The Most Common Machine Learning Regression Algorithms for Data Science](https://readmedium.com/en/https:/medium.com/swlh/types-of-regression-algorithms-eb792039a554)
 * [Random Forest Regression](https://towardsdatascience.com/random-forest-regression-5f605132d19d)
 * [Feature Selection with Random Forest](https://www.yourdatateacher.com/2021/10/11/feature-selection-with-random-forest/)
 * [Regression Metrics for Machine Learning](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
 * [Hyperparameter Tuning Random Forest in Python](https://readmedium.com/en/https:/towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
-* [How, When, and Why Should You Normalize / Standardize / Rescale Your Data?](https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff)
 * [sklearn.ensemble.GradientBoostingRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
 * [XGBoost for Regression](https://www.geeksforgeeks.org/xgboost-for-regression/)
